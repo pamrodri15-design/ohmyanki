@@ -1,0 +1,19 @@
+# Arquivos de bytecode e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de variáveis de ambiente (chaves de API, senhas)
+.env
+
+# Logs
+*.log
